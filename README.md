@@ -29,8 +29,6 @@ Hello Github Community!👋 Check out my new Data Analytics PORTFOLIO Project of
 
 𝟵. 𝟮 𝗠𝗼𝗻𝘁𝗵𝘀 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴: Sales Spikes are Expected in the coming months. Prepare with Adequate Inventory, Optimized Logistics, and Increased Marketing to Maximize Revenue.
 
-Navigate to Kaggle to preview the Dynamicity of this Dashboard (Link in the comments).
-
 𝗧𝗼𝗼𝗹 𝗨𝘀𝗲𝗱:
 Microsoft Excel
 
